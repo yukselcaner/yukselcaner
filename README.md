@@ -1,4 +1,4 @@
-## Hi there 👋
+## Merhabalar 👋
 
 <!--
 **yukselcaner/yukselcaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
+İnönü Üniversitesi Bilgisayar Mühendisliği öğrencisi.
+
+- Linkedin Hesabım:
+  <a href="https://tr.linkedin.com/in/y%C3%BCksel-caner-mulazimoglu-2323752aa">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+<img src="https://komarev.com/ghpvc/?username=yukselcaner&style=flat-square&color=blue" alt=""/>
