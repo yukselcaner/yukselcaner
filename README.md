@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>İnönü Üniversitesi Bilgisayar Mühendisliği öğrencisi.</h2>
+<h4>İnönü Üniversitesi Bilgisayar Mühendisliği öğrencisi.</h4>
 <p>
 - Linkedin Hesabım:
   <a href="https://tr.linkedin.com/in/y%C3%BCksel-caner-mulazimoglu-2323752aa">
