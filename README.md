@@ -1,4 +1,4 @@
-<h1>Merhabalar</h1>
+<h1>Yüksel Caner MÜLAZIMOĞLU</h1>
 
 <h4>İnönü Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisi.</h4>
 
