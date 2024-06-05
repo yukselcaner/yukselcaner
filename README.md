@@ -7,6 +7,7 @@
   <a href="https://tr.linkedin.com/in/y%C3%BCksel-caner-mulazimoglu-2323752aa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukselcaner&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
